@@ -5,8 +5,8 @@ Output of the script is saved to a CSV file which contains the time stamp (incre
 
 ## Required Files
   -benchmark_model_run.py  
-  -bulk_run.py, bulk_run_no_vtune.py  
+  -bulk_run.py OR bulk_run_no_vtune.py  
   -get_llm_output.py  
-  -log_benchmark_condense.bat, log_benchmark_condense.sh  
+  -log_benchmark_condense.bat OR log_benchmark_condense.sh  
   
 Other files are optional for logging
